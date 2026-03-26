@@ -12,15 +12,12 @@ To write a program to implement the Logistic Regression Model to predict the Pla
 2. Define the variable (X) and target variable (y).
 3. Split the data into training and testing sets.
 4. Train the logistic regression model, make predictions, and evaluate using accuracy and other
+
+## Developed by: Sairam K
+## Register Number:  212225240132
 ## Program:
-```
-/*
-Program to implement the Logistic Regression Model to predict a student's placement status.
-Name: Sairam K
-Register_Number:  212225240132
-*/
-```
-```
+
+```Python
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
